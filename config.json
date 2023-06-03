@@ -1,0 +1,30 @@
+{
+    "ownerNumber": ["94789481495@s.whatsapp.net","94789481495@s.whatsapp.net"],
+    "ownerName": "Maazin King",
+    "instagram" : "https://wa.me/94789481495",
+    "gcwa" : "https://wa.me/94789481495",
+    "botName": "𝙼𝚉𝙽 𝙱𝙾𝚃𝚂 𝙾𝙵𝙲",
+    "footer": "𝙼𝚉𝙲 𝙱𝙾𝚃𝚂 𝙾𝙵𝙲",
+    "sessionName": "MznSs",
+    "fotoDonasi": "./mzn_donate.jpg",
+    "pathimg": "./mzn_bots.jpg",
+    "BotKey": "pakek apikey lu dek",
+    "OpenAIKey": "pakek apikey lu dek",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": false,
+    "grupOnly": false,
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
